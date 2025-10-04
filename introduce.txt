@@ -1,0 +1,20 @@
+ Giới thiệu bản thân 
+
+Xin chào, tôi tên là [ĐỖ NHƯ Ý].  
+Hiện tại tôi đang là sinh viên ngành Công Nghệ Đa Phương Tiện tại [Học Viện Công Nghệ Bưu Chính Viễn Thông].
+
+🔹 Sở thích:
+- Vẽ tranh và thiết kế nhân vật
+- Thiết kế ứng dụng và truyền thông số
+
+
+🔹 Kỹ năng:
+- Ngôn ngữ lập trình: C++, HTML
+- Công cụ: Git, Visual Studio Code, Jira, MySQL  
+- Quy trình phát triển: Agile - Scrum, Waterfall
+
+🔹 Mục tiêu:
+- Thiết kế game, trò chơi điện tử 
+- Tham gia vào các dự án writer, artist trong cộng đồng design
+
+Cảm ơn bạn đã đọc phần giới thiệu của tôi.	
